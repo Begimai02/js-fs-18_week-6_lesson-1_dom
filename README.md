@@ -1,4 +1,6 @@
-# js-fs-18_week-6_lesson-1_dom
+### js-fs-18_week-6_lesson-1_dom
+
+# Week 6, Lesson 1, DOM and it's selectors
 
 **‼️Обязательно клонить в пустую папку‼️**
 
